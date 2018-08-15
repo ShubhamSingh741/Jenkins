@@ -11,5 +11,6 @@ public class DockerSpringBootApplication {
 		System.out.println("Spring boot application started");
 		System.out.println("Jenkins changes done");
 		System.out.println("Done !!");
+		System.out.println("Done with jenkin !!");
 	}
 }
